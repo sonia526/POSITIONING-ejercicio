@@ -47,7 +47,7 @@ body{
 }*/
 
 /*DESAFIO 2*/
-body{
+/*body{
 	margin: 0;
 	padding: 0;
 }
@@ -72,6 +72,49 @@ body{
 	background-color: #B7D84B;
 	position: absolute;
 }
+*/
+
+/*desafio 3*/
+body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+/* position:absolute;*/
+}
+#rosa{
+	background-color: #EE3E64;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#azul{
+	position: absolute;
+	background-color: #2B7DB9;
+	right: 0;
+	top:  0;
+}
+#verde{
+	background-color: #B7D84B;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+
+}
+#amarillo{
+	background-color: #F0FF33;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
 
 
 
