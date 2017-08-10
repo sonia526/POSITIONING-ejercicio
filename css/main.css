@@ -20,10 +20,10 @@ body{
 #verde{
 	background-color: #B7D84B;
 }
+
 */
 /*RETO 1*/
-body{
-	margin: 0;
+/*	margin: 0;
 	padding: 0;
 }
 .contenedor{
@@ -44,6 +44,33 @@ body{
 }
 #verde{
 	background-color: #B7D84B;
+}*/
+
+/*DESAFIO 2*/
+body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+#rosa{
+	background-color: #EE3E64;
+	position: absolute;
+}
+#azul{
+	position: relative;
+	background-color: #2B7DB9;
+	left: 200px;
+}
+#verde{
+	background-color: #B7D84B;
+	position: absolute;
 }
 
 
