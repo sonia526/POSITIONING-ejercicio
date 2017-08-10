@@ -118,7 +118,7 @@ body{
 
 
 /*DESAFIO cuatro*/
-body{
+/*body{
 	margin: 0;
 	padding: 0;
 }
@@ -139,6 +139,31 @@ body{
     top: 200px;
     left: 200px;
 }
+#verde{
+	background-color: #B7D84B;
+}
+#amarillo{
+	background-color: #F0FF33;
+}*/
+
+body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 200px;
+	height: 200px;   
+}
+#rosa{
+	background-color: #EE3E64;
+}
+#azul{
+	background-color: #2B7DB9;
+    }
 #verde{
 	background-color: #B7D84B;
 }
